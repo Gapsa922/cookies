@@ -1,4 +1,4 @@
-# cookies
+# cookies LOCAL
 
 Ingredients:
 .flour
